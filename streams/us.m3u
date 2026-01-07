@@ -1318,3 +1318,6 @@ http://143.244.60.30/AL_BIRMINGHAM_FOX/index.m3u8
 http://143.244.60.30/AL_BIRMINGHAM_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1 (720p)
 http://143.244.60.30/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="XaniusTV.us@SD",XaniusTV (720p)
+https://react.tv/ch/Xanius%20TV/embed
+
